@@ -1,4 +1,12 @@
 
+# Shigra khata
+
+## links
+
+1. [[Design]]
+2. [[forms]]
+
+
 a gst billing software with a focus on wholesalers.
 
 ## parties
