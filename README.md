@@ -3,8 +3,8 @@
 
 ## links
 
-1. [[Design]]
-2. [[forms]]
+1. [[Design](Design.md)]
+2. [[forms](forms.md)]
 
 
 a gst billing software with a focus on wholesalers.
